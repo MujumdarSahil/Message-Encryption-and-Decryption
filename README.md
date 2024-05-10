@@ -1,2 +1,8 @@
 # Message-Encryption-and-Decryption
-Simple Message Encryption and Decryption Code
+This is a Simple Message Encryption and Decryption Code using Python
+
+
+Libraries used:
+tkinter
+messagebox
+base64
